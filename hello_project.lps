@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="hello_project.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="hello.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="21"/>
+        <CursorPos Y="40"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="hello.pas"/>
+        <Caret Line="7" Column="44" TopLine="13"/>
+      </Position1>
+      <Position2>
+        <Filename Value="hello.pas"/>
+        <Caret Line="38" Column="32" TopLine="14"/>
+      </Position2>
+      <Position3>
+        <Filename Value="hello.pas"/>
+        <Caret Line="37" Column="32" TopLine="13"/>
+      </Position3>
+      <Position4>
+        <Filename Value="hello.pas"/>
+        <Caret Line="8" Column="12"/>
+      </Position4>
+      <Position5>
+        <Filename Value="hello.pas"/>
+        <Caret Line="41" Column="54" TopLine="21"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
